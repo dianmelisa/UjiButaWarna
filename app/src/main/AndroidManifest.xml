@@ -24,6 +24,10 @@
             android:name=".ScoreActivity"
             android:label="@string/title_activity_score" >
         </activity>
+        <activity
+            android:name=".PenjelasanSingkat"
+            android:label="@string/title_activity_penjelasan_singkat" >
+        </activity>
     </application>
 
 </manifest>
